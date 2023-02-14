@@ -25,6 +25,11 @@
                 <default>false</default>
                 <label>Other</label>
             </value>
+            <value>
+                <fullName>FHA</fullName>
+                <default>false</default>
+                <label>FHA</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
